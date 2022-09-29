@@ -13,7 +13,7 @@ namespace TE_CSharp
         enum Student
         {
             Sam,
-            Demon = 1051,
+            Demon = 1345,
             Jack = 1052,
             Wakas = 1053,
         }
