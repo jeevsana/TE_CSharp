@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>TE_CSharp.exception_of_numbers</StartupObject>
+    <StartupObject>TE_CSharp.Bank</StartupObject>
   </PropertyGroup>
 
 </Project>
